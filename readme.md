@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+;Building+rl-lang+;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+;Building+rl-lang+;" alt="Typing SVG" />
 
 <br/>
 
@@ -45,12 +45,9 @@ and more!
 
 ### Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedGonem&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=F72585&icon_color=F72585&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGonem&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=F72585&text_color=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=MohamedGonem&theme=dracula&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
-<img src="https://streak-stats.demolab.com?user=MohamedGonem&theme=dracula&hide_border=true&background=0d1117&ring=F72585&fire=F72585&currStreakLabel=F72585" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedGonem&theme=react-dark&hide_border=true&bg_color=0d1117&color=F72585&line=F72585&point=ffffff&area=true&custom_title=Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedGonem&theme=react-dark&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&custom_title=Contribution%20Graph" />
 
 ---
 
