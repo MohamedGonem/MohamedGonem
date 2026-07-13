@@ -49,8 +49,8 @@ and more!
 
 ### Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedGonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGonem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=MohamedGonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohamedGonem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" />
 
 <img src="https://streak-stats.demolab.com?user=MohamedGonem&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
