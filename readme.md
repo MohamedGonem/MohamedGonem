@@ -24,7 +24,7 @@ Nothing to say much i suppose.
 
 ---
 
-### Featured Project -<[rl-lang](https://github.com/rl-lang/rl-lang)>-
+### Featured Project -<[rl-lang](https://github.com/rl-lang/rl-lang)>- <img src="https://img.shields.io/github/commit-activity/t/rl-lang/rl-lang/dev?style=for-the-badge&label=dev%20commits&color=3B82F6" />
 
 A statically-typed, tree-walking interpreted language written in Rust, with a growing ecosystem:
 
