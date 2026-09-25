@@ -20,7 +20,7 @@
 
 Nothing to say much i suppose.
 
-- Currently working on: **rl-lang bytecode VM**
+- Currently working on: **rl-lang toolchain and self-hosting**
 
 ---
 
@@ -30,18 +30,19 @@ Nothing to say much i suppose.
 
 <br/>
 
-A statically-typed, tree-walking interpreted language written in Rust, with a growing ecosystem:
+A statically-typed language written in Rust - bytecode VM, C transpiler, and a growing ecosystem:
 
 | Component | Description |
 |---|---|
-| CLI | `rl run` / `rl check` / `rl new` / `rl dev` |
-| Tooling | `rl package` / `rl fmt` / `rl workflow` |
+| CLI | `rl run` / `rl check` / `rl test` / `rl new` / `rl dev` |
+| Tooling | `rl package` / `rl format` / `rl workflows` / `rl pm` |
 | VM | Bytecode virtual machine |
-| CraneLift | Compiler (WIP) |
-| LSP | Hover, diagnostics, go-to-definition (WIP) |
+| Transpiler | `rlt`: RL to C99 |
+| Compiler | `rlc`: bytecode compiler |
+| LSP | `rlsp`: hover, diagnostics, completions |
 | REPL | Ratatui-powered TUI |
-| Grammar | tree-sitter for Neovim / Zed / GitHub |
-| Stdlib | 314 documented functions across 18 modules |
+| Grammar | tree-sitter for Neovim / Helix / Zed / GitHub |
+| Stdlib | 370+ functions across 20+ modules |
 
 and more!
 
