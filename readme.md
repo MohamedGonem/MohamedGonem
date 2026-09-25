@@ -6,11 +6,16 @@
 <br/>
 
 <!-- Social badges -->
+<img src="https://img.shields.io/badge/RL_Lang-3B82F6?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Zed-575153?style=for-the-badge&logo=zedindustries&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black" />
+<img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Helix-7E5AF0?style=for-the-badge&logo=helix&logoColor=white" />
+<img src="https://img.shields.io/badge/Sway-4C7899?style=for-the-badge&logo=wayland&logoColor=white" />
 
 </div>
 
