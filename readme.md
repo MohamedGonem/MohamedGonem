@@ -55,20 +55,14 @@ and more!
 
 ### Stats
 
+<div align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=MohamedGonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohamedGonem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" />
+</div>
 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=MohamedGonem&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedGonem&theme=github-compact&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&custom_title=Contribution%20Graph" />
-
----
-
-### Contribution Snake
-
-<img src="https://raw.githubusercontent.com/MohamedGonem/MohamedGonem/output/github-contribution-grid-snake-dark.svg" />
-
-<sub></sub>
+</div>
 
 ---
 
