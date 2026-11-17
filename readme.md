@@ -75,6 +75,14 @@ and more!
 
 ### 🌐 Connect
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.mohamedgonem.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-mohamedgonem.dev-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/MohamedGonem">
+  <img src="https://img.shields.io/badge/GitHub-MohamedGonem-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/crimsonnls/">
+  <img src="https://img.shields.io/badge/LinkedIn-crimsonnls-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
